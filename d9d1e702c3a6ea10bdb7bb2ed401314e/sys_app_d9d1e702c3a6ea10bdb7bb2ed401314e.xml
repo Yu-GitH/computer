@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>ced1e702c3a6ea10bdb7bb2ed40131f5</logo>
+        <menu/>
+        <name>Computer</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1781356_computer</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>computer management system</short_description>
+        <source>x_1781356_computer</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 01:01:29</sys_created_on>
+        <sys_id>d9d1e702c3a6ea10bdb7bb2ed401314e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 01:01:33</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=d9d1e702c3a6ea10bdb7bb2ed401314e"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ComputerToastIcon.contrast-white.png</file_name>
+        <hash>a8891175c996df2b8bb80b1338cb6b6bef1d00ae6d496e38adc54ace94de1e7a</hash>
+        <image_height>176</image_height>
+        <image_width>176</image_width>
+        <size_bytes>686</size_bytes>
+        <size_compressed>449</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 01:01:32</sys_created_on>
+        <sys_id>ced1e702c3a6ea10bdb7bb2ed40131f5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 01:01:33</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>d9d1e702c3a6ea10bdb7bb2ed401314e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ComputerToastIcon.contrast-white.png" sys_id="ced1e702c3a6ea10bdb7bb2ed40131f5">ced1e702c3a6ea10bdb7bb2ed40131f5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 01:01:32</sys_created_on>
+        <sys_id>02d1e702c3a6ea10bdb7bb2ed40131f6</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSG0CYgwVIsu7TuQqkWNIdfR0ZGDb2c/9JZAXyFZI9gnwZGKrUGBgaWhgYfgGFGl4wMJQaMDC8SmBgsJrBwCBeMGdXoA1QginJ292F4X97/5n9QB57iaevK/tDbnYuLtaam5/+MDAwbvN0cQypuPX27sGuQwYiDhe1/v3X7//dJXDs3pYlz3WOuu7Y4+qx6q4ZyI5Kudv3b3r/2LVJ1eZ83IFXLH2cMsIWagU+D2Yc2Hj9uHr6W/v1u+T/T+REEjdsTGY6DlH4Terfs8B01u47W3uNDiKJqxXk1MjXbP77OtAHXQuaGdL2/HanXnwW7f6TdpgFRcnGn78f7L06b/uNt/d9CRhChsDs/3K9sw3R3Pyv2iRv23yzg9i1nds/OfpPziE0V77ec7tuv/y6dwzq/9P34AqmHW/m3thu3Hzz9d+Pb9AMYICCP6el6zj41bLNPgGTBYNqiWtESUpiSapVclEqkGIwMjA01zU01DUwDzE0sAIhM10DCysDgw2nHrGgaMjNT8lMq8TUYGAK0WBz1WE3yEJPVz+XdU4JTQCS0LaIrgIAAA==</data>
+        <length>588</length>
+        <position>1</position>
+        <sys_attachment display_value="ComputerToastIcon.contrast-white.png" sys_id="ced1e702c3a6ea10bdb7bb2ed40131f5">ced1e702c3a6ea10bdb7bb2ed40131f5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 01:01:32</sys_created_on>
+        <sys_id>82d1e702c3a6ea10bdb7bb2ed40131f6</sys_id>
+    </sys_attachment_doc>
+</record_update>

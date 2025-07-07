@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:08</sys_created_on>
+        <sys_id>2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</application>
+        <file_path/>
+        <instance_id>50ce1421ebf20a1056eafddacad0cdba</instance_id>
+        <instance_name>dev274987</instance_name>
+        <name>sc_cat_item_catalog_2f3d8c9ac36aea10bdb7bb2ed40131b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-07 04:11:08</sys_created_on><sys_id>2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Catalog Item</sys_name><sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package><sys_policy/><sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope><sys_update_name>sc_cat_item_catalog_2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-07 04:11:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1092052169</payload_hash>
+        <record_name>Service Catalog.Catalog Item</record_name>
+        <reverted_from/>
+        <source>55d1e702c3a6ea10bdb7bb2ed4013153</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:08</sys_created_on>
+        <sys_id>a33d8c9ac36aea10bdb7bb2ed40131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e3149ea10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>e33d8c9a9a6aea10db54eeceed9e48b8</update_guid>
+        <update_guid_history>e33d8c9a9a6aea10db54eeceed9e48b8:1092052169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Catalog Item">8e5d00dac36aea10bdb7bb2ed40131fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3e64cba9d62045188497cb32cfea5e40</sys_id>
+        <sys_metadata>2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_parent display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_scope_delete display_value="">06dd80f8bb7c45b4861030ab416cc8d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_2f3d8c9ac36aea10bdb7bb2ed40131b5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_2f3d8c9ac36aea10bdb7bb2ed40131b5">a33d8c9ac36aea10bdb7bb2ed40131b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

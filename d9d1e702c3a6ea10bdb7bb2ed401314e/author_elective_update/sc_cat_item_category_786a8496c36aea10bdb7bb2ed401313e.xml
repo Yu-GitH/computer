@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 03:58:41</sys_created_on>
+        <sys_id>786a8496c36aea10bdb7bb2ed401313e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_update_name>sc_cat_item_category_786a8496c36aea10bdb7bb2ed401313e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 03:58:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</application>
+        <file_path/>
+        <instance_id>50ce1421ebf20a1056eafddacad0cdba</instance_id>
+        <instance_name>dev274987</instance_name>
+        <name>sc_cat_item_category_786a8496c36aea10bdb7bb2ed401313e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-07 03:58:41</sys_created_on><sys_id>786a8496c36aea10bdb7bb2ed401313e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.Catalog Item</sys_name><sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package><sys_policy/><sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope><sys_update_name>sc_cat_item_category_786a8496c36aea10bdb7bb2ed401313e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-07 03:58:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>562129675</payload_hash>
+        <record_name>Laptops.Catalog Item</record_name>
+        <reverted_from/>
+        <source>55d1e702c3a6ea10bdb7bb2ed4013153</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 03:58:41</sys_created_on>
+        <sys_id>496a8496c36aea10bdb7bb2ed4013142</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e30936800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 03:58:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>896a8496a86aea101a17b42320388541</update_guid>
+        <update_guid_history>896a8496a86aea101a17b42320388541:562129675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.Catalog Item">e97ac496c36aea10bdb7bb2ed40131f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 03:58:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>424a75372d6641c08a6356d1f0307990</sys_id>
+        <sys_metadata>786a8496c36aea10bdb7bb2ed401313e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_scope_delete display_value="">06dd80f8bb7c45b4861030ab416cc8d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_786a8496c36aea10bdb7bb2ed401313e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_786a8496c36aea10bdb7bb2ed401313e">496a8496c36aea10bdb7bb2ed4013142</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 03:58:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

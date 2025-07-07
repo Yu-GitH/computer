@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:08</sys_created_on>
+        <sys_id>a73d8c9ac36aea10bdb7bb2ed40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_update_name>sc_cat_item_category_a73d8c9ac36aea10bdb7bb2ed40131c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:08</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</application>
+        <file_path/>
+        <instance_id>50ce1421ebf20a1056eafddacad0cdba</instance_id>
+        <instance_name>dev274987</instance_name>
+        <name>sc_cat_item_category_a73d8c9ac36aea10bdb7bb2ed40131c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog Item">93694056c36aea10bdb7bb2ed4013144</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-07 04:11:08</sys_created_on><sys_id>a73d8c9ac36aea10bdb7bb2ed40131c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Catalog Item</sys_name><sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package><sys_policy/><sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope><sys_update_name>sc_cat_item_category_a73d8c9ac36aea10bdb7bb2ed40131c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-07 04:11:08</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-114329753</payload_hash>
+        <record_name>Can We Help You?.Catalog Item</record_name>
+        <reverted_from/>
+        <source>55d1e702c3a6ea10bdb7bb2ed4013153</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:09</sys_created_on>
+        <sys_id>6b3d8c9ac36aea10bdb7bb2ed40131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e3149f5e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:09</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ab3d8c9a956aea10282f32658ee925ca</update_guid>
+        <update_guid_history>ab3d8c9a956aea10282f32658ee925ca:-114329753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Catalog Item">125d40dac36aea10bdb7bb2ed4013126</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:11:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>5d801a9e329f4477bbee87553bf936d9</sys_id>
+        <sys_metadata>a73d8c9ac36aea10bdb7bb2ed40131c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Catalog Item</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_scope_delete display_value="">06dd80f8bb7c45b4861030ab416cc8d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_a73d8c9ac36aea10bdb7bb2ed40131c7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a73d8c9ac36aea10bdb7bb2ed40131c7">6b3d8c9ac36aea10bdb7bb2ed40131cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:11:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

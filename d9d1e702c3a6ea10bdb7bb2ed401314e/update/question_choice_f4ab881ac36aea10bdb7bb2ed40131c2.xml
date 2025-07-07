@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
-        <order>300</order>
+        <order>200</order>
         <published_ref/>
-        <question display_value="What kind of computer model do I need to apply for">adb8fb4ec3e6ea10bdb7bb2ed401318e</question>
+        <question display_value="What kind of computer model do I need to apply for">2d2b001ac36aea10bdb7bb2ed4013157</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-07-07 02:50:59</sys_created_on>
-        <sys_id>51ea3b02c32aea10bdb7bb2ed401318d</sys_id>
+        <sys_created_on>2025-07-07 04:04:08</sys_created_on>
+        <sys_id>f4ab881ac36aea10bdb7bb2ed40131c2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Lenovo Legion Y7000P 2025 AI Yuanqi Edition</sys_name>
         <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
-        <sys_update_name>question_choice_51ea3b02c32aea10bdb7bb2ed401318d</sys_update_name>
+        <sys_update_name>question_choice_f4ab881ac36aea10bdb7bb2ed40131c2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-07 02:50:59</sys_updated_on>
+        <sys_updated_on>2025-07-07 04:04:08</sys_updated_on>
         <text>Lenovo Legion Y7000P 2025 AI Yuanqi Edition</text>
         <value>lenovo_legion_y_7000_p_2025_ai_yuanqi_edition</value>
     </question_choice>
-    <fx_price action="delete_multiple" query="id=51ea3b02c32aea10bdb7bb2ed401318d"/>
+    <fx_price action="delete_multiple" query="id=f4ab881ac36aea10bdb7bb2ed40131c2"/>
 </record_update>
