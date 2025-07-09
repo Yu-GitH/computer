@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="31d151d2c3eeea10bdb7bb2ed4013196" extends="task" label="Computer Information Table" max_length="40" name="x_1781356_computer_computer_information_table" type="collection"/>
+</database>

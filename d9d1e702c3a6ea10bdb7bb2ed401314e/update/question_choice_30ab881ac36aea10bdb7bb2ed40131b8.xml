@@ -8,16 +8,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-07 04:04:08</sys_created_on>
         <sys_id>30ab881ac36aea10bdb7bb2ed40131b8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>ThinkPad X1 Carbon</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lenovo ThinkStation S20</sys_name>
         <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
         <sys_update_name>question_choice_30ab881ac36aea10bdb7bb2ed40131b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-07 04:04:08</sys_updated_on>
-        <text>ThinkPad X1 Carbon</text>
-        <value>think_pad_x_1_carbon</value>
+        <sys_updated_on>2025-07-08 06:12:02</sys_updated_on>
+        <text>Lenovo ThinkStation S20</text>
+        <value>lenovo_think_station_s_20</value>
     </question_choice>
     <fx_price action="delete_multiple" query="id=30ab881ac36aea10bdb7bb2ed40131b8"/>
 </record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>700</order>
+        <published_ref/>
+        <question display_value="What kind of computer model do I need to apply for">2d2b001ac36aea10bdb7bb2ed4013157</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:04:08</sys_created_on>
+        <sys_id>74abc81ac36aea10bdb7bb2ed401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dell XPS 15</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_update_name>question_choice_74abc81ac36aea10bdb7bb2ed401310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:04:08</sys_updated_on>
+        <text>Dell XPS 15</text>
+        <value>dell_xps_15</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=74abc81ac36aea10bdb7bb2ed401310d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</application>
+        <file_path/>
+        <instance_id>50ce1421ebf20a1056eafddacad0cdba</instance_id>
+        <instance_name>dev274987</instance_name>
+        <name>question_choice_74abc81ac36aea10bdb7bb2ed401310d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>700</order><published_ref/><question display_value="What kind of computer model do I need to apply for">2d2b001ac36aea10bdb7bb2ed4013157</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-07 04:04:08</sys_created_on><sys_id>74abc81ac36aea10bdb7bb2ed401310d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dell XPS 15</sys_name><sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package><sys_policy/><sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope><sys_update_name>question_choice_74abc81ac36aea10bdb7bb2ed401310d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-07 04:04:08</sys_updated_on><text>Dell XPS 15</text><value>dell_xps_15</value></question_choice><fx_price action="delete_multiple" query="id=74abc81ac36aea10bdb7bb2ed401310d"/></record_update>]]></payload>
+        <payload_hash>-843779759</payload_hash>
+        <record_name>Dell XPS 15</record_name>
+        <reverted_from/>
+        <source>55d1e702c3a6ea10bdb7bb2ed4013153</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 04:04:08</sys_created_on>
+        <sys_id>b8abc81ac36aea10bdb7bb2ed4013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e30e35f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 04:04:08</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f8abc81a816aea109ed15f3e76f70415</update_guid>
+        <update_guid_history>f8abc81a816aea109ed15f3e76f70415:-843779759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dell XPS 15">648271eec3a66e10bdb7bb2ed40131c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-08 06:12:04</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>5afe739a7df44d4283ed8874fba568a4</sys_id>
+        <sys_metadata>74abc81ac36aea10bdb7bb2ed401310d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dell XPS 15</sys_name>
+        <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
+        <sys_parent display_value="What kind of computer model do I need to apply for">2d2b001ac36aea10bdb7bb2ed4013157</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
+        <sys_scope_delete display_value="">06dd80f8bb7c45b4861030ab416cc8d9</sys_scope_delete>
+        <sys_update_name>question_choice_74abc81ac36aea10bdb7bb2ed401310d</sys_update_name>
+        <sys_update_version display_value="question_choice_74abc81ac36aea10bdb7bb2ed401310d">b8abc81ac36aea10bdb7bb2ed4013116</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-08 06:12:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

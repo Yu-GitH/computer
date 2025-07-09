@@ -8,13 +8,13 @@
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p><img style="float: right;" src="/sys_attachment.do?sys_id&#61;bd2a0096c36aea10bdb7bb2ed4013197" alt="" width="71" height="71" />Computer items for Inventory Management</p>]]></description>
+        <description><![CDATA[<p><img style="float: right;" src="/sys_attachment.do?sys_id&#61;bd2a0096c36aea10bdb7bb2ed4013197" alt="" width="71" height="71" />Apply a new computer for new hired employee. </p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="Computer Fulfillment">87f3e8d6c3eaea10bdb7bb2ed40131d8</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -66,21 +66,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-07 03:55:17</sys_created_on>
         <sys_id>93694056c36aea10bdb7bb2ed4013144</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>Catalog Item</sys_name>
         <sys_package display_value="Computer" source="x_1781356_computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Computer">d9d1e702c3a6ea10bdb7bb2ed401314e</sys_scope>
         <sys_update_name>sc_cat_item_93694056c36aea10bdb7bb2ed4013144</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-07 04:20:08</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-07-08 06:12:04</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>31</version>
+        <version>41</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
